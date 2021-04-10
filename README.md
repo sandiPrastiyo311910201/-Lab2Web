@@ -52,13 +52,20 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![5 2](https://user-images.githubusercontent.com/81818405/114045865-8fda9680-98b2-11eb-9913-b5294ea865e5.PNG)
 
 
+# PERTANYAAN 
+# 1
+
+![pertanyaan](https://user-images.githubusercontent.com/81818405/114269799-01d9e980-9a33-11eb-94b5-7721c4f288cb.PNG)
 
 
+# 2
 
-  
+deklarasi h1 mengubah warna text agar bisa menyatu dengan tag #intro h1 dan intro #h1 membuat bagan kotak agar text bisa terlihat seperti contoh dibagian ke enam.
 
+# 3
 
+deklrasi internal yang akan tampil, karena eksternal hanyalah sebagai pendukung 
 
+# 4
 
-
-
+deklarasi yang akan tampil adalah paragraf ke 1 karena perintahnya text-paragraf 1
