@@ -54,6 +54,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
 # PERTANYAAN 
 # 1
+saya mencoba merubah body background, dan seperti ini hasilnya.
 
 ![pertanyaan](https://user-images.githubusercontent.com/81818405/114269799-01d9e980-9a33-11eb-94b5-7721c4f288cb.PNG)
 
